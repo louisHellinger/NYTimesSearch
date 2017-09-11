@@ -1,3 +1,36 @@
 body {
-	background-color: black;
+	background-color: #eee;
 }
+
+.jumbotron {
+
+	background-color: #20315A;
+	
+
+}
+
+
+.jumbotron h1 {
+	color: white;
+
+}
+
+.panel-header {
+	padding:6px;
+	background-color: #20315A;
+	font-size:14px;
+	color: white;
+	font-family:arial, sans-serif;
+	font-weight:bold;
+
+}
+
+.result  {
+	background-color: #ECF0F1;
+	height:200px;
+}
+
+/*.form-group {
+	margin-top: 10px;
+}*/
+
